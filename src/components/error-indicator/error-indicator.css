@@ -1,0 +1,13 @@
+.error-content {
+    margin: auto;
+    text-align: center;
+}
+
+.boom {
+    size: 18px;
+    color: #5e5c06;
+}
+
+span {
+    display: block;
+}

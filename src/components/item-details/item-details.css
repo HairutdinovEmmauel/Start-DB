@@ -1,0 +1,51 @@
+.person-details {
+    max-width: 600px;
+    display: flex;
+    flex-flow: row wrap;
+    background: rgb(48, 47, 47);
+    margin: 20px;
+    padding: 15px;
+    flex: 1 1 400px;
+}
+
+.person-image {
+    max-width: 220px;
+    flex: 1 1 150px;
+}
+
+.person-details .person-image> img {
+    max-width: 220px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.info-person {
+    max-width: 250px;
+    padding: 20px;
+    flex: 1 1 150px;
+}
+
+.info-person ul {
+    max-width: 190px;
+}
+
+.info-person h2 {
+    font-size: 22px;
+}
+
+.info-person li span {
+    font-size: 18px;
+}
+
+.person-details .list-group {
+    margin: 1rem 0 0 1rem;
+}
+
+.person-details .list-group-item {
+    padding: .25rem;
+}
+
+.person-details .list-group-item .term {
+    margin-right: .5rem;
+}
+    

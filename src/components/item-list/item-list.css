@@ -1,0 +1,13 @@
+.item-list {
+    max-width: 680px;
+    background: rgb(48, 47, 47);
+    margin: 20px;
+    padding: 0;
+    flex: 1 1 235px;
+}
+
+.item-list .people-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+};

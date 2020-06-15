@@ -1,0 +1,43 @@
+.random-planets {
+    display: flex;
+    background: rgb(48, 47, 47);
+    margin: 20px;
+    padding: 15px;
+}
+
+.random-planets .planet-image {
+    width: 270px;
+    border-radius: 10px;
+}
+
+.info-planets {
+    padding: 20px;
+}
+
+.info-planets h2 {
+    font-size: 22px;
+}
+
+.random-planet .list-group {
+    margin: 1rem 0 0 1rem;
+}
+
+.random-planet .list-group-item {
+    padding: .25rem;
+}
+
+.random-planet .list-group-item .term {
+    margin-right: .5rem;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
